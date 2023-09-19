@@ -123,8 +123,10 @@ np.mean(predict(res.x,X)==y)
 ![233686027-0877fcff-43e1-458b-9c76-775fd2c09e98](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/a2008bce-00a6-4006-b1d1-c28603675a86)
 ### Y_train_grad value:
 ![233686071-d4e01b9b-5bf1-4b47-b546-9f82e30c6213](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/d0f55626-1929-4f14-acd0-f84507a6b903)
-### Decision boundary - graph for exam score:
+### Print res.x:
 ![233686143-e28eb2d2-b7b7-42ff-9ce9-6009bd8ebfc5](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/8b7eb96e-a2c7-40a6-9da2-7bac08e0ee8b)
+### Decision boundary - graph for exam score:
+![233686223-36c51815-9370-4076-885a-85c553eee393](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/7c705a67-462a-421a-b0f3-35d9c2d86c58)
 ### Proability value:
 ![233686314-7faa0663-8a83-49a7-9194-3941b2733b51](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/2387b993-0a7b-4103-b8f0-e2db18757463)
 ### Prediction value of mean:
