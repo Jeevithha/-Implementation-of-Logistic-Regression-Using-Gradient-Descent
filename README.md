@@ -130,7 +130,8 @@ np.mean(predict(res.x,X)==y)
 ### Proability value:
 ![233686314-7faa0663-8a83-49a7-9194-3941b2733b51](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/2387b993-0a7b-4103-b8f0-e2db18757463)
 ### Prediction value of mean:
-![233686372-15b81f06-74a3-4c98-b2c2-278b326ee179](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/ac7854f2-1d6d-459b-8eaa-d1858b7708ab)
+![233686372-15b81f06-74a3-4c98-b2c2-278b326ee179](https://github.com/Jeevithha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/123623197/8436700a-1149-4c6d-8287-f0a85d62048d)
+
 
 
 ## Result:
